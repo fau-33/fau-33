@@ -13,3 +13,5 @@ I'm a recent graduate in systems analysis and development looking for opportunit
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fau-33&show_icons=true)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fau-33&repo=github-readme-stats)](https://github.com/fau-33/github-readme-stats)
+
