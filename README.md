@@ -1,4 +1,4 @@
-<img src="https://github.com/fau-33/fau-33">
+<img src="https://avatars.githubusercontent.com/u/42551220?v=4">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
