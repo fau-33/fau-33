@@ -6,4 +6,4 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=fau-33
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fau-33)](https://github.com/fau-33/github-readme-stats)
