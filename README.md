@@ -1,13 +1,13 @@
 <img src="https://avatars.githubusercontent.com/u/42551220?v=4">
 
 ### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+I'm a recent graduate in systems analysis and development looking for opportunities and collaboration on projects related to web pages and systems and deep learning.
+- 🔭 I’m currently working on building web pages using html, css and javascript (also, I am improving my data structures and algorithm skills regularly).
+- 🌱 I’m Currently learning reactJs
+- 🤝 I’m looking to collaborate on frontend projects through digital house and deep learning. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fau-33)](https://github.com/fau-33/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fau-33)](https://github.com/fau-33/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fau-33)](https://github.com/anuraghazra/github-readme-stats)
+
