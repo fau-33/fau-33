@@ -9,4 +9,6 @@ I'm a recent graduate in systems analysis and development looking for opportunit
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fau-33)](https://github.com/fau-33/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fau-33&hide=contribs,prs)
+
 
