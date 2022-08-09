@@ -1,4 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/42551220?v=4">
 
 ### Hi 👋
 I'm a recent graduate in systems analysis and development looking for opportunities and collaboration on projects related to web pages and systems and deep learning.
