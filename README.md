@@ -9,3 +9,5 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fau-33)](https://github.com/fau-33/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fau-33)](https://github.com/fau-33/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fau-33)](https://github.com/anuraghazra/github-readme-stats)
