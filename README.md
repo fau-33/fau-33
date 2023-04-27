@@ -14,8 +14,8 @@ I'm a recent graduate in systems analysis and development looking for opportunit
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fau-33&show_icons=true&theme=dark)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=fau-33&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/fau-33/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=fau-33&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/fau-33/github-readme-stats#gh-light-mode-only)
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+
 
 
 
