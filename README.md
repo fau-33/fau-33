@@ -14,7 +14,7 @@ I'm a recent graduate in systems analysis and development looking for opportunit
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fau-33&show_icons=true&theme=dark)
 
-![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+
 
 
 
