@@ -6,15 +6,16 @@ I'm a recent graduate in systems analysis and development looking for opportunit
 - 🌱 I’m Currently learning Html,css e Javascript
  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fau-33)](https://github.com/fau-33/github-readme-stats&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fau-33)](https://github.com/fau-33/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fau-33)](https://github.com/fau-33/github-readme-stats&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fau-33)](https://github.com/fau-33/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fau-33&layout=compact)](https://github.com/fau-33/github-readme-stats&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fau-33&layout=compact)](https://github.com/fau-33/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fau-33&show_icons=true&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fau-33&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fau-33&count_private=true)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=fau-33&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/fau-33/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=fau-33&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/fau-33/github-readme-stats#gh-light-mode-only)
 
 
 
