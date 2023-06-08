@@ -23,6 +23,18 @@ I'm a recent graduate in systems analysis and development looking for opportunit
 
 <br><br>
 
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=fau-33&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fau-33&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
+-->
+
+<br><br>
+
 
 
 
