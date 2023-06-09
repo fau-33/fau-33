@@ -35,35 +35,7 @@ I'm a recent graduate in systems analysis and development looking for opportunit
 
 <br><br>
 
-## Contact
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/fau-33" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-fau-33-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://linkedin.com/in/flavio-felix" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-flavio-felix-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-</p>
-
-<!--
-
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=fau-33&layout=wide&show_reply=off&show_retweet=off" />
-
-
-**flavio/flaviofelix(fau-33)** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
