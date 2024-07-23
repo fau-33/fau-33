@@ -24,8 +24,10 @@ I'm a passionate systems analysis and development graduate eager to collaborate 
 
 **GitHub Stats 📊**
 
-(https://github-readme-stats.vercel.app/api?username=fau-33&show_icons=true&theme=vision-friendly-dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fau-33&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=fau-33&layout=compact&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fau-33&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 **Let's Build Something Amazing Together! 🚀**
