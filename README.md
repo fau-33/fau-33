@@ -1,4 +1,4 @@
-## Hello World! 👋 I'm [Flávio Félix]
+## Hello World! 👋 I'm Flávio Félix
 
 I'm a passionate systems analysis and development graduate eager to collaborate on exciting web and deep learning projects.
 
@@ -24,8 +24,8 @@ I'm a passionate systems analysis and development graduate eager to collaborate 
 
 **GitHub Stats 📊**
 
-[![Your GitHub Stats]](https://github-readme-stats.vercel.app/api?username=fau-33&show_icons=true&theme=vision-friendly-dark)
+(https://github-readme-stats.vercel.app/api?username=fau-33&show_icons=true&theme=vision-friendly-dark)
 
-[![Your Top Languages]](https://github-readme-stats.vercel.app/api/top-langs/?username=fau-33&layout=compact&theme=vision-friendly-dark)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=fau-33&layout=compact&theme=vision-friendly-dark)
 
 **Let's Build Something Amazing Together! 🚀**
