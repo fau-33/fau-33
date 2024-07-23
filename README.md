@@ -18,7 +18,7 @@ I'm a passionate systems analysis and development graduate eager to collaborate 
 
 **Let's Connect!**
 
-* 📫 Feel free to reach out via [flavioleandrovasco@gmail.com] or [https://www.linkedin.com/in/flavio-felix/]
+* 📫 Feel free to reach out via flavioleandrovasco@gmail.com or https://www.linkedin.com/in/flavio-felix/
 
 
 
