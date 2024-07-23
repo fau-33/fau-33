@@ -12,8 +12,8 @@ I'm a passionate systems analysis and development graduate eager to collaborate 
 **Tech Toolkit 🛠️**
 
 * **Front-End:** HTML, CSS, JavaScript, React
-* **Back-End:** Node.js 
-* **Databases:** PostgreSQL, SQLite
+* **Back-End:** Node.js, Python, Java 
+* **Databases:** PostgreSQL, SQLite, MySQl
 * **Tools:** Git, GitHub, Visual Studio Code, Markdown
 
 **Let's Connect!**
