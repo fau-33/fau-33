@@ -43,7 +43,7 @@ I'm a dedicated systems analysis and development graduate with a passion for cre
 
 <!-- GitHub Activity Graph -->
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fau-33&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
-*A visual representation of my GitHub activity over the past year.*
+
 
 **Let's Build Something Amazing Together! 🚀**
 
