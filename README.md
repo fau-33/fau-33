@@ -41,8 +41,11 @@ I'm a dedicated systems analysis and development graduate with a passion for cre
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fau-33&theme=radical&date_format=j%20M%20Y&mode=weekly)
 *This tracks my coding streak and consistency over time.*
 
-<!-- GitHub Activity Graph -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fau-33&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fau-33&theme=radical&date_format=j%20M%20Y&mode=weekly)
+*This tracks my coding streak and consistency over time.*
+
+**Let's Build Something Amazing Together! 🚀**
 
 
 **Let's Build Something Amazing Together! 🚀**
